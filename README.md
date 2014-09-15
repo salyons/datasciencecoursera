@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-my first attempt at creating a repo
+This is my first attempt at markdown
